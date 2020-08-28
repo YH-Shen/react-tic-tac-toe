@@ -52,3 +52,6 @@ ul {
 .selected_bold {
     font-weight: bold;
 }
+.highlight_win {
+    background-color: #177591;
+}
